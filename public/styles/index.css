@@ -1,0 +1,175 @@
+body{
+    background-color:#E5E5E5;
+    width: 100%;
+}
+
+.layer-1{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto 0 auto;
+
+}
+
+.form-head{
+    margin-top: 6%;
+    width: 100%;
+}
+
+.head-top{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 112.294px;
+    line-height: 30px;
+
+    text-align: center;
+
+    width: 100%;
+}
+
+.head-bottom{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 86.8332px;
+    line-height: 106px;
+
+    margin-left: 53%;
+
+    width: 100%;
+
+}
+
+.form-label{
+    text-align: center;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.4215px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    letter-spacing: 0.215em;
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.form-el{
+    width: 80%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    
+    
+    height: 50%;
+}
+
+
+.label-1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+
+    font-size: 33.249px;
+}
+
+.label{
+    padding-right: 0.6%;
+}
+
+.input-1{
+    width: 35%;
+    height: 37.5px;
+    background-color: #C4C4C4;
+    border: none;
+
+    
+}
+
+.field1{
+    margin-bottom: 1%;
+}
+
+.field2{
+    margin-bottom: 1%;
+}
+
+.error{
+    margin-bottom: 1%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.5892px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #FF0000;
+}
+
+.message{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.5892px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: green;
+}
+
+.custom-btn1{
+    width: 20%;
+    border: none;
+    background: #3A64A4;
+    border-radius: 10.9053px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6627px;
+    line-height: 25px;
+
+    color: #ffff;
+    /* identical to box height */
+    
+    letter-spacing: 0.26em;
+    padding: 5px;
+}
+
+.bland-title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33.249px;
+
+    margin-top: 2%;
+}
+
+.listing {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    
+}
+
+.pass-listing{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.body-title{
+    text-align: center;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.4215px;
+}
